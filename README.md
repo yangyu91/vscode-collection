@@ -18,7 +18,8 @@
 - **HTML CSS Support**: HTML/CSS 支持
 - **JavaScript (ES6) Snippets**: JS 代码片段
 - **SQLTools**: 数据库管理工具
-- **Chinese Language Pack**: 简体中文语言包
+- **Chinese Language Pack**: 简体中文语言包 (Win7 请下载 `Chinese_Language_Pack_Win7_OpenVSX.vsix`)
+- **Path Intellisense**: 路径自动补全 (Win10 已包含)
 
 ## 使用说明
 1. 下载对应系统的安装包并安装。
