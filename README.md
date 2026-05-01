@@ -4,7 +4,7 @@
 
 ## 🚀 快速下载
 
-👉 **[点击前往下载页面 (Releases v1.1.0)](https://github.com/yangyu91/vscode-collection/releases/tag/v1.1.0)**
+👉 **[点击前往下载页面 (Releases v1.2.0)](https://github.com/yangyu91/vscode-collection/releases/tag/v1.2.0)**
 
 ---
 
